@@ -1,0 +1,201 @@
+@media (min-width: 375px){
+                                     #menu {
+                                        display: none;
+                                      }
+                                      #menuLink {
+                                        font-size: 44px;
+                                        height: 9vh;
+                                        width: 10%;
+                                        padding-top: 1px;
+                                        position: fixed;
+                                      }
+                                      body {
+                                      width: 100%;
+                                      height:200vh;
+                                      background: #E5E7EB;
+                                      position: relative;
+                                      display: flex;
+                                   
+                                    }
+                                
+                                      header {
+                                        height: 11vh;
+                                        width: 86%;
+                                        margin-left: 12%;
+                                        background-color: rgb(221, 218, 213);
+                                        top: 0;
+                                        left: 0;
+                                        position: fixed;
+                                        display: flex;
+                                        align-items: center;
+                                        justify-content: space-between;
+                                      }
+                                      header img {
+                                      height: 50px;
+                                      width: 50px;
+                                      border-radius: 50px;
+                                      float: right;
+                                    }
+                                    aside .logo {
+                                      display: flex;
+                                      align-items: center;
+                                      padding: 30px 0 0 30px;
+                                    }
+                                
+                                    aside .logo i {
+                                      height: 30px;
+                                      width: 30px;
+                                      border-radius: 30px;
+                                      border: 2px solid wheat;
+                                      display: flex;
+                                      align-items: center;
+                                      justify-content: center;
+                                      background-color: blueviolet;
+                                      margin: 20px;
+                                    }
+                                
+                                    aside .logo h2 {
+                                      color: white;
+                                    }
+                                
+                                    .navbar {
+                                      padding: 2px;
+                                    }
+                                
+                                    .navbar ul li {
+                                      list-style: none;
+                                      margin: 0px;
+                                    }
+                                
+                                    .navbar ul i {
+                                      margin: 15px;
+                                      color: white;
+                                      font-size: 1.4rem;
+                                    }
+                                
+                                    .navbar ul a {
+                                      margin: 25px;
+                                      text-decoration: none;
+                                      color: white;
+                                      font-size: 1.5rem;
+                                    }
+                                      #main {
+                                        height: 70vh;
+                                        width: 100%;
+                                        margin-left:18%;
+                                        margin-top:45px;
+                                      }
+                                      .skill i {
+                                      height: 30px;
+                                      width: 30px;
+                                      align-items: center;
+                                      display: flex;
+                                      justify-content: center;
+                                      margin: auto;
+                                      margin-top: 20px;
+                                      font-size: 20px;
+                                    }
+                                
+                                    .skill h1 {
+                                      font-size: 1.7rem;
+                                    }
+                                
+                                    .skill p {
+                                      font-size: 1.2rem;
+                                    }
+                                
+                                    .skill .btn {
+                                      background-color: red;
+                                      height: 30px;
+                                      width: 100px;
+                                      border-radius: 5px;
+                                      color: white;
+                                      cursor: pointer;
+                                    }
+                                      header h1 {
+                                        /* text-align: center; */
+                                        font-family: sans-serif;
+                                        margin-left: 10px;
+                                      }
+                                
+                                      aside {
+                                        background-color: #111827;
+                                        width: 300px;
+                                        height: 100%;
+                                        position: fixed;
+                                        top: 0;
+                                        left: 0;
+                                      }
+                                
+                                      .skill {
+                                        margin: 28px;
+                                        height: 250px;
+                                        width: 205px;
+                                        border: 2px solid white;
+                                        text-align: center;
+                                        border-radius: 10px;
+                                        background-color: white;
+                                      }
+                                      .primary {
+                                      margin-top: 41px;
+                                      text-align: left;
+                                    }
+                                
+                                    .footer {
+                                      height: 219%;;
+                                      width: 65%;
+                                      border: 2px solid white;
+                                      border-radius: 10px;
+                                      width: 91%;
+                                      margin-top: 50px;
+                                      margin-left: 0px;
+                                              }
+                                
+                                    .footer .detail {
+                                        flex-wrap: wrap;
+                                        text-align: left;
+                                    }
+                                
+                                    .footer .detail li {
+                                      list-style: none;
+                                      margin: 5px;
+                                      font-size: 1.3rem;
+                                      font-family: sans-serif;
+                                      padding: 5px;
+                                    }
+                                
+                                    .footer .box {
+                                      width: 180px;
+                                      height: 201px;
+                                      border: 2px solid white;
+                                      border-radius: 10px;
+                                     margin-left: 18%;
+                                     margin-top: 7px;
+                                      background-color: rgba(182, 177, 177, 0.493);
+                                    }
+                                    .footer .box h1{
+                                      text-align: center;
+                                      margin-bottom: 2px;
+                                    }
+                                    .box img {
+                                      width: 52px;
+                                      height: 59px;
+                                      margin-left: 12px;
+                                      margin-bottom:-29px;
+                                    }
+                                    .html{
+                                      display: block;
+                                      margin-left: 48px;
+                                    }
+                                  .btn2{
+                                    width: 73px;
+                                    height: 22px;
+                                    margin: 32px;
+                                    margin-left: 50px;
+                                    border-radius: 7px;
+                                  }
+                                .large-box{
+                                  display: block;
+                                }
+                    
+}
